@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1791820004912,1566,01 - Open Home Page,200,OK,UniReg Student Registration Journey 1-1,text,true,,12335,122,1,1,https://uni-reg-cloud.vercel.app/,1554,0,809
+1791820006486,325,02 - Student Login,200,OK,UniReg Student Registration Journey 1-1,text,true,,438,240,1,1,https://uni-reg-cloud.vercel.app/api/login,325,0,0
+1791820006875,274,03 - Open Course Detail Page,200,OK,UniReg Student Registration Journey 1-1,text,true,,512,185,1,1,https://uni-reg-cloud.vercel.app/api/courses/A-CSE101,274,0,0
+1791820007150,414,04 - Open My Registrations,200,OK,UniReg Student Registration Journey 1-1,text,true,,332,179,1,1,https://uni-reg-cloud.vercel.app/api/my-courses,413,0,0
+1791820007567,399,05 - Student Logout,200,OK,UniReg Student Registration Journey 1-1,text,true,,340,259,1,1,https://uni-reg-cloud.vercel.app/api/logout,399,0,0
