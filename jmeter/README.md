@@ -1,7 +1,7 @@
 # UniReg Cloud - JMeter Performance Testing
 
 This folder contains the Apache JMeter test plan, test data,
-results, and screenshots for Task3 .
+results, and screenshots for Task 3 .
 
 Test Journey:
 1. Open Home Page
