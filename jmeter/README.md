@@ -6,7 +6,7 @@ results, and screenshots for Task 3 .
 Test Journey:
 1. Open Home Page
 2. Student Login
-3. Open Course Detail Page
+3. Open Course Detail Pa
 4. Open My Registrations
 5. Student Logout
 
