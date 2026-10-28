@@ -7,7 +7,7 @@ Test Journey:
 1. Open Home Page
 2. Student Login
 3. Open Course Detail Page
-4. Open My Registrations
+4. Open My Registratio
 5. Student Logout
 
 Tool: Apache JMeter 5.6.3
